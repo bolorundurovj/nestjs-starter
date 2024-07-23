@@ -56,7 +56,7 @@
     "react-dom": "^18.2.0",
     "reflect-metadata": "^0.1.14",
     "rimraf": "^3.0.2",
-    "rxjs": "^7.8.0",
+    "rxjs": "^7.8.1",
     "ts-morph": "^23.0.0",
     "typeorm": "^0.3.11"
   },
