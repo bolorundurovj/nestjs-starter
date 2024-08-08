@@ -72,7 +72,7 @@
     "@types/jest": "^28.1.8",
     "@types/node": "^18.11.18",
     "@types/passport-google-oauth20": "^2.0.11",
-    "@types/passport-jwt": "^3.0.8",
+    "@types/passport-jwt": "^4.0.1",
     "@types/passport-local": "^1.0.38",
     "@types/passport-oauth2": "^1.4.11",
     "@types/react": "^18.0.26",
