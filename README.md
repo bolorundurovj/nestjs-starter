@@ -1,11 +1,9 @@
 # NestJS Starter
-[![CI](https://github.com/thisismydesign/nestjs-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/thisismydesign/nestjs-starter/actions/workflows/ci.yml)
+[![CI](https://github.com/bolorundurovj/nestjs-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/bolorundurovj/nestjs-starter/actions/workflows/ci.yml)
 
 #### NestJS MVC boilerplate for rapid development with battle-tested standards.
 
-[Use this template](https://github.com/thisismydesign/nestjs-starter/generate)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[Use this template](https://github.com/bolorundurovj/nestjs-starter/generate)
 
 ## Stack
 
