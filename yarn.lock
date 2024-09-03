@@ -45,10 +45,10 @@
     ora "5.4.1"
     rxjs "7.8.1"
 
-"@apollo/client@^3.11.4":
-  version "3.11.4"
-  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-3.11.4.tgz#8b0fed2d091d47597e8ddafca85776bf612ae3aa"
-  integrity sha512-bmgYKkULpym8wt8aXlAZ1heaYo0skLJ5ru0qJ+JCRoo03Pe+yIDbBCnqlDw6Mjj76hFkDw3HwFMgZC2Hxp30Mg==
+"@apollo/client@^3.11.6":
+  version "3.11.6"
+  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-3.11.6.tgz#85e2602e0fc9caf0afae89b454e5d59588b758c6"
+  integrity sha512-7Yh71ZhkVwJ+7L5lUDw3H7phfn/KCD++UvZpMM+jiKzQNhocGOuIhSTnw6vGds9HwjWfpUvSwX46v/5XVcTzrw==
   dependencies:
     "@graphql-typed-document-node/core" "^3.1.1"
     "@wry/caches" "^1.0.0"
