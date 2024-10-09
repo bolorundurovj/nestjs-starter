@@ -41,7 +41,7 @@
     "apollo-server-express": "^3.13.0",
     "axios": "^1.7.7",
     "commander": "^12.1.0",
-    "cookie-parser": "^1.4.6",
+    "cookie-parser": "^1.4.7",
     "google-auth-library": "^9.14.1",
     "graphql": "^16.9.0",
     "nestjs-console": "^9.0.0",
