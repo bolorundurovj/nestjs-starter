@@ -44,7 +44,7 @@
     "cookie-parser": "^1.4.7",
     "google-auth-library": "^9.15.1",
     "graphql": "^16.10.0",
-    "nestjs-console": "^9.0.0",
+    "nestjs-console": "^10.0.0",
     "next": "^15.1.7",
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
