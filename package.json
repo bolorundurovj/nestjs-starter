@@ -70,7 +70,7 @@
     "@types/express": "^5.0.1",
     "@types/gtag.js": "^0.0.20",
     "@types/jest": "^28.1.8",
-    "@types/node": "^22.15.2",
+    "@types/node": "^22.15.3",
     "@types/passport-google-oauth20": "^2.0.16",
     "@types/passport-jwt": "^4.0.1",
     "@types/passport-local": "^1.0.38",
