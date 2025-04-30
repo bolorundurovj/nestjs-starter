@@ -4825,10 +4825,10 @@ find-up@^5.0.0:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
 
-fishery@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/fishery/-/fishery-2.2.3.tgz#339ca74cd98a5a13fe45438b0942d262aa675303"
-  integrity sha512-Rbp1PCPjNS5Yyuw2tRhVQ59wZ5Ciwv5+latMNx7JjhoZ5JF1TMgzs8J93wKYesLf3WXdXHovjY5dIDkf2EbMDw==
+fishery@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/fishery/-/fishery-2.3.0.tgz#2381db22ae98ba57cc42767a85b1f47c43d798bd"
+  integrity sha512-F8ouWXR3q0aC+6Pza/z1PPSPzITKtXDWopWw7U84IkN2Y+Q9dAGzfmCnQvno4cGOmYjmHMNmZm7HXk000rMT7A==
   dependencies:
     lodash.mergewith "^4.6.2"
 
