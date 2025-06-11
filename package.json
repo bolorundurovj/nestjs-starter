@@ -67,7 +67,7 @@
     "@nestjs/testing": "^9.2.1",
     "@next/eslint-plugin-next": "^15.3.3",
     "@types/cookie-parser": "^1.4.9",
-    "@types/express": "^5.0.2",
+    "@types/express": "^5.0.3",
     "@types/gtag.js": "^0.0.20",
     "@types/jest": "^28.1.8",
     "@types/node": "^24.0.0",
