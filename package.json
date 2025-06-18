@@ -51,7 +51,7 @@
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
     "passport-oauth2": "^1.8.0",
-    "pg": "^8.16.0",
+    "pg": "^8.16.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "reflect-metadata": "^0.1.14",
