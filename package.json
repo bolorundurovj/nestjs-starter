@@ -74,7 +74,7 @@
     "@types/passport-google-oauth20": "^2.0.16",
     "@types/passport-jwt": "^4.0.1",
     "@types/passport-local": "^1.0.38",
-    "@types/passport-oauth2": "^1.4.17",
+    "@types/passport-oauth2": "^1.8.0",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "@types/supertest": "^6.0.3",
