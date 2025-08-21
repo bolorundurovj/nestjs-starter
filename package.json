@@ -58,7 +58,7 @@
     "rimraf": "^6.0.1",
     "rxjs": "^7.8.2",
     "ts-morph": "^26.0.0",
-    "typeorm": "^0.3.25"
+    "typeorm": "^0.3.26"
   },
   "devDependencies": {
     "@faker-js/faker": "^9.9.0",
