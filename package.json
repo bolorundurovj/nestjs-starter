@@ -65,7 +65,7 @@
     "@nestjs/cli": "^11.0.10",
     "@nestjs/schematics": "^11.0.9",
     "@nestjs/testing": "^11.1.6",
-    "@next/eslint-plugin-next": "^15.5.4",
+    "@next/eslint-plugin-next": "^15.5.5",
     "@types/cookie-parser": "^1.4.9",
     "@types/express": "^5.0.3",
     "@types/gtag.js": "^0.0.20",
